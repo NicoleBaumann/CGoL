@@ -1,0 +1,53 @@
+h1 {
+    margin-top:50px;
+    text-align: center;
+    color: white;
+}
+
+.gamefieldContainer {
+    text-align: center;
+}
+
+.gamefield {
+    display: inline-block;
+}
+
+.optionHeader {
+    margin-top: 10px;
+    color: white;
+}
+
+.textDiv {
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(7, 68, 89);
+    font-style: italic;
+    font-size: large;
+}
+
+.buttonDiv {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.genDiv {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+.motherOfDivs {
+    background-image: url("jpg/cell.jpg");
+    padding-bottom: 10px;
+}
+
+.levelDiv {
+    text-align: center;
+    margin:5px;
+}
+
+body {
+    background-color: rgb(25, 189, 242);
+}
